@@ -1,6 +1,4 @@
 
 <img src="dumingyi.png" alt="Du-Mingyi" >
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #555;">
-  "This is a centered quote with a custom font."
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&pause=202&color=B80000CF&vCenter=true&random=false&width=435&lines=I+am+Du+Mingyi.;+A+Computer+Science+and+AI+enthusiast.;Never+stray+from+the+Way.)](https://git.io/typing-svg)
