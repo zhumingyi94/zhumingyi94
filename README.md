@@ -1,5 +1,5 @@
 
-<img src="test_2.gif" alt="Example GIF" style="width:850px">
+<img src="test_3.gif" alt="Example GIF" style="width:850px">
 
 ## Hi there 👋
 
