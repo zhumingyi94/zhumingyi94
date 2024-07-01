@@ -1,3 +1,3 @@
-![Follow the wind](red1.gif)
+![Follow the wind](red2.gif)
 ## Hi there 👋
 
