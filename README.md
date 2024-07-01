@@ -1,3 +1,3 @@
-<img src="red1.gif" alt="Test">
+![Follow the wind](red1.gif)
 ## Hi there 👋
 
