@@ -1,8 +1,9 @@
 <img src="dumingyi.png" alt="Du-Mingyi">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=EE0000CF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=70&lines=I+am+Du+Mingyi.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
+<div align="center">
 [![React][React.js]][React-url] [![Python][Python-badge]][Python-url] [![Jupyter Notebook][Jupyter-badge]][Jupyter-url] [![Flask][Flask-badge]][Flask-url] [![PyTorch][PyTorch-badge]][PyTorch-url] [![Docker][Docker-badge]][Docker-url] [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url] [![Firebase][Firebase-badge]][Firebase-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Spring Boot][Spring-boot-badge]][Spring-boot-url]
-
+</div>
 ---
 
 <img src="jinsakai.jpg" align="right" width=300>
