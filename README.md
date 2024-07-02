@@ -1,7 +1,7 @@
 <img src="dumingyi.png" alt="Du-Mingyi">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=EE0000CF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=70&lines=I+am+Du+Mingyi.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
-<div style="text-align: center;">
+<div style="align: center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
