@@ -4,7 +4,7 @@
 
 ---
 
-<img src="jinsakai.jpg" align="left" width=300>
+<img src="jinsakai.jpg" align="right" width=300>
 <pre>
     💼 UET @ VNU  • AI Research • Backend dev • Frontend dev(sometimes)
     💻 Big Data • Natural Language Processing • Computer Vision
