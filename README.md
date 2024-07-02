@@ -1,17 +1,6 @@
 <img src="dumingyi.png" alt="Du-Mingyi">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=EE0000CF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=70&lines=I+am+Du+Mingyi.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
-
----
-
-<img src="jinsakai.jpg" align="right" width=300>
-<pre>
-    💼 UET @ VNU  • AI Research • Backend dev • Frontend dev(sometimes)
-    💻 Big Data • Natural Language Processing • Computer Vision
-    📖 Convex Optimization • Probabilistic Graphical Model 
-    🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
-</pre>
-
 <div style="text-align: center;">
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -44,6 +33,18 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
     </a>
 </div>
+
+---
+
+<img src="jinsakai.jpg" align="right" width=300>
+<pre>
+    💼 UET @ VNU  • AI Research • Backend dev • Frontend dev(sometimes)
+    💻 Big Data • Natural Language Processing • Computer Vision
+    📖 Convex Optimization • Probabilistic Graphical Model 
+    🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
+</pre>
+
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zhumingyi94&title_color=dfae6d&icon_color=5b7abf&text_color=e8e6e6&bg_color=2c3c54&show_icons=true&hide_border=true" alt="Github Stats" width="48%">
