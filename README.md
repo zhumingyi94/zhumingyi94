@@ -17,11 +17,8 @@
 [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
 [![Firebase][Firebase-badge]][Firebase-url]
 
----
 
-<h2>🏆 GitHub Stats</h2>
-
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zhumingyi94&title_color=dfae6d&icon_color=5b7abf&text_color=e8e6e6&bg_color=2c3c54&show_icons=true&hide_border=true" alt="Github Stats" width="48%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=zhumingyi94&theme=dark&hide_border=true" alt="Github Streak" width="48%">
 </div>
