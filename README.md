@@ -12,16 +12,10 @@
     🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
 </pre>
 
-## 🔧 Technologies & Tools
-
-* [![React][React.js]][React-url]
-* [![Python][Python-badge]][Python-url]
-* [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
-* [![Flask][Flask-badge]][Flask-url]
-* [![PyTorch][PyTorch-badge]][PyTorch-url]
-* [![Docker][Docker-badge]][Docker-url]
-* [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
-* [![Firebase][Firebase-badge]][Firebase-url]
+[![React][React.js]][React-url] [![Python][Python-badge]][Python-url] [![Jupyter Notebook][Jupyter-badge]][Jupyter-url] [![Flask][Flask-badge]][Flask-url] [![PyTorch][PyTorch-badge]][PyTorch-url]
+[![Docker][Docker-badge]][Docker-url]
+[![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
+[![Firebase][Firebase-badge]][Firebase-url]
 
 ---
 
