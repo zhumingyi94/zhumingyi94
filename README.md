@@ -18,7 +18,7 @@
 
 <img src="jinsakai.jpg" align="right" width=300>
 <pre>
-    💼 UET @ VNU  • AI Research • Backend dev • Frontend dev(sometimes)
+    💼 UET @ VNU  • AI Research • Backend dev • Frontend dev
     💻 Big Data • Natural Language Processing • Computer Vision
     📖 Convex Optimization • Probabilistic Graphical Model 
     🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
