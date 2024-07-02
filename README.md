@@ -12,17 +12,37 @@
     🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
 </pre>
 
-<div align="center">
-    [![React][React.js]][React-url]
-    [![Python][Python-badge]][Python-url]
-    [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
-    [![Flask][Flask-badge]][Flask-url]
-    [![PyTorch][PyTorch-badge]][PyTorch-url]
-    [![Docker][Docker-badge]][Docker-url]
-    [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
-    [![Firebase][Firebase-badge]][Firebase-url]
-    [![TensorFlow][TensorFlow-badge]][TensorFlow-url]
-    [![Spring Boot][Spring-boot-badge]][Spring-boot-url]
+<div style="text-align: center;">
+    <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
+    <a href="https://jupyter.org/">
+        <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    </a>
+    <a href="https://flask.palletsprojects.com/">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    </a>
+    <a href="https://pytorch.org/">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </a>
+    <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    </a>
+    <a href="https://spring.io/projects/spring-boot">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+    </a>
 </div>
 
 <div align="center">
