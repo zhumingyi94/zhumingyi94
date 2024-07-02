@@ -11,6 +11,11 @@
     📖 Convex Optimization • Probabilistic Graphical Model 
     🎮 Music • Ghost of Tsushima • Anime • Code • Guitar
 </pre>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 </div>
 ---
 <h2>🏆 GitHub Stats</h2>
