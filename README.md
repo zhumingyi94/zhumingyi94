@@ -16,7 +16,7 @@
 
 ---
 
-<img src="jinsakai.jpg" align="right" width=280>
+<img src="Frame 20.png" align="right" width=280>
 <pre>
     💼 UET @ VNU  • AI Research • Backend dev • Frontend dev
     💻 Big Data • Natural Language Processing • Computer Vision
